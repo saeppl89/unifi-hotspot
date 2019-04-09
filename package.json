@@ -11,17 +11,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/woodjme/unifi-hotspot.git"
+    "url": "git+https://github.com/saeppl89/unifi-hotspot.git"
   },
   "keywords": [
     "Unifi"
   ],
-  "author": "Jamie Wood",
+  "author": "Jamie Wood & Sebastian Barton",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/woodjme/unifi-hotspot/issues"
+    "url": "https://github.com/saeppl89/unifi-hotspot/issues"
   },
-  "homepage": "https://github.com/woodjme/unifi-hotspot#readme",
+  "homepage": "https://github.com/saeppl89/unifi-hotspot#readme",
   "dependencies": {
     "express": "^4.16.3",
     "express-session": "^1.15.0",
