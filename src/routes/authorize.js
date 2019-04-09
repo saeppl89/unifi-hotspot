@@ -35,8 +35,8 @@ module.exports = function () {
                     res.redirect('https://google.com');
                 })
                 .catch(err => {
-                    console.log(err);
-                })
+                     console.log(err);
+                });
         });
     return authoriseRouter;
 };
